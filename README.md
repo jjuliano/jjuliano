@@ -1,16 +1,33 @@
-### Hi there 👋
+# 👋 Hi, I’m Joel Juliano.
 
-<!--
-**jjuliano/jjuliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I've been thriving in the world of software engineering for more than 15 years.
 
-Here are some ideas to get you started:
+## 🎓 Education
+* Bachelor's degree in Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Publications
+* Author of 21 books
+
+## 🏆 Certifications
+* Holder of 26 IT certifications
+
+## 🌐 Web Development
+* Crafted 43 web products
+
+## 📱 Mobile Apps
+* Developed 11 IOS/Android apps (30k purchased)
+
+## 💼 Work Experience
+* Work and contributed to 11 companies across various industries
+
+## 🚀 Entrepreneurship
+* Co-founded 2 startups
+
+## 💎 Ruby Gems
+* Published 13 ruby gems with a total of 203k downloads
+
+## 📦 NPM Package
+* Published 1 npm package with 500 downloads
+
+## 🐧 Linux
+* Created 7 Linux distributions
