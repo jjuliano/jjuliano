@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Joel Juliano.
 
+### Below are taken from my LinkedIn profile (as a placeholder), also, because (why not?).
+
 🚀 I've been working as a software engineer for more than 15 years.
 
 - 🎓 Education: Bachelor's degree in Computer Science
