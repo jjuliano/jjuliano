@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joel Juliano.
 
-🚀 I've been thriving in the world of software engineering for more than 15 years.
+🚀 I've been working as a software engineer for more than 15 years.
 
 ## 🎓 Education
 * Bachelor's degree in Computer Science
