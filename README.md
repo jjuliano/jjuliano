@@ -21,7 +21,7 @@
 * Work and contributed to 11 companies across various industries
 
 ## 🚀 Entrepreneurship
-* Co-founded 2 startups
+* Co-founded 2 startups (secured 1 angel funding)
 
 ## 💎 Ruby Gems
 * Published 13 ruby gems with a total of 203k downloads
