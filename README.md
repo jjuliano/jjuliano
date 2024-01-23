@@ -4,7 +4,7 @@
 
 🚀 I've been working as a software engineer for more than 15 years.
 
-- 🎓 Education: Bachelor's degree in Computer Science
+- 🎓 Education: Bachelor's degree in Computer Science, CCNA, MSCP
 - 📚 Publications: Author of 21 books
 - 🏆 Certifications: Holder of 26 IT certifications
 - 🌐 Web Development: Crafted 43 web products
